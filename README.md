@@ -1,3 +1,5 @@
+Read more in my blog at https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/
+
 # MS-DOS
 Microsoft makes source code for MS-DOS available to public
 
