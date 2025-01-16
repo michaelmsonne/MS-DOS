@@ -1,3 +1,5 @@
+**UPDATE**: Now also hereup to MS DOS 4.0! https://github.com/microsoft/MS-DOS/tree/main
+
 Read more in my blog at https://blog.sonnes.cloud/microsoft-maked-the-source-code-for-ms-dos-and-word-for-windows-available-to-the-public/
 
 # MS-DOS
